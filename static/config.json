@@ -1,7 +1,7 @@
 {
   "title": "Telemetry Status",
   "name": "Telemetry.red",
-  "link": "https://telemetry.red",
+  "link": "https://kowlin.github.io/status/",
   "repo": "kowlin/status",
   "statusRepo": "kowlin/status",
   "services": ["API", "Website"],
